@@ -27,7 +27,7 @@ int main()
 			}
 		}
 		cout << "The number of sentences: " << countr << endl;
-		file.close();
 	}
+	file.close();
 	return 0;
 }
