@@ -33,7 +33,7 @@ int main()
 		}
 		cout << "The number of dots: " << dots << endl;
 		cout << "The number of commas: " << commas << endl;
-		file.close();
 	}
+	file.close();
 	return 0;
 }
