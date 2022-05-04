@@ -32,7 +32,7 @@ int main()
 			}
 		}
 		cout << "The number of the word " << word << ": " << countr << endl;
-		file.close();
 	}
+	file.close();
 	return 0;
 }
