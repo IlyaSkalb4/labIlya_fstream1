@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
 	ifstream file;
-	string word, strfile;
+	string strfile;
 	int dots = 0, commas = 0;
 	file.open("file.txt", ios::in);
 	if (!file.is_open())
